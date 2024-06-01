@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168310122377",
+    "project_id": "a-n-messenger",
+    "storage_bucket": "a-n-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168310122377:android:986385dd3a868936eb6358",
+        "android_client_info": {
+          "package_name": "com.example.anmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWf5NIknlME6ywwh2Btm3PB-QLWjoQgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
